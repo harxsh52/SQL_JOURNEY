@@ -11,4 +11,5 @@ CREATE TABLE IF NOT EXISTS students (
 
 INSERT INTO students (name, age, class, admission_date) VALUES
 ('Amit Sharma', 17, '10A', '2024-06-10'),
+('Amit ', 14, '10B', '2024-04-10'),
 ('Riya Singh', 18, '12B', '2023-05-15');
